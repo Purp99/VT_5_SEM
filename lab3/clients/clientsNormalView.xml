@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+    <client>
+        <id>0</id>
+        <login>wwww</login>
+        <password>12341234</password>
+        <files>
+            <file>2.xml</file>
+            <file>wer.xml</file>
+            <file>3.xml</file>
+        </files>
+    </client>
+</clients>
