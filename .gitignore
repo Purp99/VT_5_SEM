@@ -38,7 +38,6 @@ gradle-app.setting
 
 .idea/
 .idea_modules/
-*.iml
 *.ipr
 *.iws
 
